@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356230945928",
+    "firebase_url": "https://lipz-laundry.firebaseio.com",
+    "project_id": "lipz-laundry",
+    "storage_bucket": "lipz-laundry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356230945928:android:0d107af3c97d8245e3533d",
+        "android_client_info": {
+          "package_name": "com.example.lipzlaundry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356230945928-7pctkgte3rnnb9r97on1f6v1rrj3gkta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lipzlaundry",
+            "certificate_hash": "8dbedcf8dcb64d031e881e228d2e44c05af5cd8b"
+          }
+        },
+        {
+          "client_id": "356230945928-62clfe77170skqramu7vqvitsgtce47j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxzMHewlXYijnWQQelSQkrvGKIN3ImjsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356230945928-62clfe77170skqramu7vqvitsgtce47j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lipz Laundry</string>
+    <string name="title_home">Lipz - Laundry</string>
+    <string name="title_dashboard">Lipz - Laundry</string>
+    <string name="title_notifications">Lipz - Laundry</string>
+    <string name="list">List</string>
+    <string name="account">account</string>
+</resources>
